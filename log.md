@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 24, 2017
+
+**Today's Progress**: Started implementing the GUI portion of the application using Tkinter. It's not going to look that pretty but it'll get the job done. 
+
+**Thoughts:** Have the basic look of the application down but need to think of the best approach when creating a new virtual environment (i.e just using a text box and a button as opposed to a dialog window where I can enter the new info for the new environment).
+
+**Link to work:** [virtualenv-manager](https://github.com/jcoady9/virtualenv-manager)
+
 ### Day 2: January 23, 2017
 
 **Today's Progress**: Implemented a method to to delete that deletes the directory of the virtual environment and finished implementing a method for listing all the environments in the database. Also did a little refactoring for exception handling when starting subprocesses
