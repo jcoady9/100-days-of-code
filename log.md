@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 25, 2017
+
+**Today's Progress**: Added functionality to the GUI. It can now create and delete the environments with the buttons and it can also list the environments in the listbox.  
+
+**Thoughts:** Not a lot done today due to a migraine, I'll put a little more time into it tomorrow to make up for it.
+
+**Link to work:** [virtualenv-manager](https://github.com/jcoady9/virtualenv-manager)
+
 ### Day 3: January 24, 2017
 
 **Today's Progress**: Started implementing the GUI portion of the application using Tkinter. It's not going to look that pretty but it'll get the job done. 
