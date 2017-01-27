@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 26, 2017
+
+**Today's Progress**: Did a little bit of clean up on the gui portion of the code. I combined the buttons and text entry widgets into their own frame for better organization. Also fixed a minor bug with the delete_environment method where it would delete the directory with the virtual environment but delete the wrong row in the database. It was a quick fix with a +1 to the position used with the method. 
+
+**Thoughts:** Originally meant to get to the point where I could start a terminal with a virtualenv but ran out of time, instead I put a little work into the gui but should go back to focusing on functionality tomorrow. Hopefully it will be good enough to share later this weekend.... Come to think of it I should probably write some unit tests for this project as well.
+
+**Link to work:** [virtualenv-manager](https://github.com/jcoady9/virtualenv-manager)
+
 ### Day 4: January 25, 2017
 
 **Today's Progress**: Added functionality to the GUI. It can now create and delete the environments with the buttons and it can also list the environments in the listbox.  
