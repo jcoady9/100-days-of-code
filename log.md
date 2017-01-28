@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 28, 2017
+
+**Today's Progress**: Finally able to start a new terminal with an environment. I had to change the SQL queries to use the name of the environment instead of the ROWID, it did not occur to me that once a row is deleted from the table that the ROWIDs would realign to the remaining rows.  
+
+**Thoughts:** Looks like all I need to do is do a little code clean up and write the README for the project's github page and this project will be done.
+
+**Link to work:** [virtualenv-manager](https://github.com/jcoady9/virtualenv-manager)
+
 ### Day 6: January 27, 2017
 
 **Today's Progress**: Added an event handler for when user double-clicks an item in the listbox. Double-clicking an item will open a new command-line terminal. Also fixed a minor bug for the STDIN when opening a child process. 
