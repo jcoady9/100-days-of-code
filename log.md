@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 27, 2017
+
+**Today's Progress**: Added an event handler for when user double-clicks an item in the listbox. Double-clicking an item will open a new command-line terminal. Also fixed a minor bug for the STDIN when opening a child process. 
+
+**Thoughts:** Figuring out how to open a new terminal with the subprocess module was easy, the difficulty was being able to run a command in that new terminal. I did figure it out, its mostly just added commands sent to the terminal, but I didn't make it start the virtual environment. I'll focus on getting that portion implemented tomorrow.
+
+**Link to work:** [virtualenv-manager](https://github.com/jcoady9/virtualenv-manager)
+
 ### Day 5: January 26, 2017
 
 **Today's Progress**: Did a little bit of clean up on the gui portion of the code. I combined the buttons and text entry widgets into their own frame for better organization. Also fixed a minor bug with the delete_environment method where it would delete the directory with the virtual environment but delete the wrong row in the database. It was a quick fix with a +1 to the position used with the method. 
