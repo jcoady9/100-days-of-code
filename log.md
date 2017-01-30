@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 30, 2017
+
+**Today's Progress**: Finished v1.0 of the virtualenv-manager. Refactored the application into a module that is called by a script. Also wrote the setup.py script to make installation a little easier and updated the README file for the github repository. 
+
+**Thoughts:** Got this project done in a little over a week, not too bad. Figuring out how to package this project so it could be easily installed was a little tricky, had to modify the structure of the project to get it to work. Right now it can only be installed via github download but I've been reading that it is a simple process to create a package for the PyPi repo; I think I'll try putting the project on there to give it a little more exposure.
+
+**Link to work:** [virtualenv-manager](https://github.com/jcoady9/virtualenv-manager)
+
 ### Day 7: January 28, 2017
 
 **Today's Progress**: Finally able to start a new terminal with an environment. I had to change the SQL queries to use the name of the environment instead of the ROWID, it did not occur to me that once a row is deleted from the table that the ROWIDs would realign to the remaining rows.  
