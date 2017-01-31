@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 8: January 30, 2017
+### Day 9: January 30, 2017
+
+**Today's Progress**: Started work on a Simplified version of [areski's django-audiofield](https://github.com/areski/django-audiofield). Mostly just gutted some of the code that is used to convert audio files and did a little refactoring since some of the code was gutte.
+
+**Thoughts:** I liked the idea of an audiofield for my Django projects but want something relatively simple. The django-audiofield project looked like the simplest so I decided I would remove the audio conversion functionality to have something more basic. Not sure where I'm going to take this but it'll be fun to see where it goes.
+
+**Link to work:** [django-audiofield](https://github.com/jcoady9/django-audiofield)
+
+### Day 8: January 29, 2017
 
 **Today's Progress**: Finished v1.0 of the virtualenv-manager. Refactored the application into a module that is called by a script. Also wrote the setup.py script to make installation a little easier and updated the README file for the github repository. 
 
