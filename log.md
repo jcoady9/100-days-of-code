@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 31, 2017
+
+**Today's Progress**: When making a branch for my changes and pushing it to github caused all the files I worked on to get corrupted. I had to redo all the work I did yesterday...
+
+**Thoughts:** At least I was only a day into this project, could have been much worse.
+
+**Link to work:** [django-audiofield](https://github.com/jcoady9/django-audiofield)
+
 ### Day 9: January 30, 2017
 
 **Today's Progress**: Started work on a Simplified version of [areski's django-audiofield](https://github.com/areski/django-audiofield). Mostly just gutted some of the code that is used to convert audio files and did a little refactoring since some of the code was gutte.
