@@ -2,7 +2,7 @@
 
 ### Day 11: February 1, 2017
 
-**Today's Progress**: Restarted the audiofield project againg this time to start it from scratch. Started the basic code for the audio field itself.
+**Today's Progress**: Restarted the audiofield project again this time to start it from scratch. Started the basic code for the audio field itself.
 
 **Thoughts:** Decided it would be much easier to just write a new custom field from scratch and borrow code that would still fit my needs than gutting someone else's project. This'll give me a little more in-depth experience with Django and should help me out in the long run.
 
