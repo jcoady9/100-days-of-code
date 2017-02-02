@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: February 1, 2017
+
+**Today's Progress**: Restarted the audiofield project againg this time to start it from scratch. Started the basic code for the audio field itself.
+
+**Thoughts:** Decided it would be much easier to just write a new custom field from scratch and borrow code that would still fit my needs than gutting someone else's project. This'll give me a little more in-depth experience with Django and should help me out in the long run.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/django-simpleaudiofield)
+
 ### Day 10: January 31, 2017
 
 **Today's Progress**: When making a branch for my changes and pushing it to github caused all the files I worked on to get corrupted. I had to redo all the work I did yesterday...
