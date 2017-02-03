@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 2, 2017
+
+**Today's Progress**: Attempted to write unit tests today for the SimpleAudioField. 
+
+**Thoughts:** Didn't get very far with writing unit tests, I still need to get a better idea on how Django works to understand how fields and the unit tests will work.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/django-simpleaudiofield)
+
 ### Day 11: February 1, 2017
 
 **Today's Progress**: Restarted the audiofield project again this time to start it from scratch. Started the basic code for the audio field itself.
