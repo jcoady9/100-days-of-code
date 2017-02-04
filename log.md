@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: February 4, 2017
+
+**Today's Progress**: Fixed the unit tests, looks like the assertion was intended to be used with form fields not model fields. Added a custom form field the the SimpleAudioField.
+
+**Thoughts:** Needed to read the documentation a little more, looks like the assertion I was using was for form fields. I created a custom form field for audio today anyways so not a complete waste. I think I'll give this django app a try with a test project tomorrow and see what happens. 
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/django-simpleaudiofield)
+
 ### Day 13: February 3, 2017
 
 **Today's Progress**: Tried working on fixing the SimpleAudioField to pass the unit test. Still having an issue with an underfined keyword 'required' that gets passed through **kwargs.
