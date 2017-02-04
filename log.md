@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 3, 2017
+
+**Today's Progress**: Tried working on fixing the SimpleAudioField to pass the unit test. Still having an issue with an underfined keyword 'required' that gets passed through **kwargs.
+
+**Thoughts:** Still haven't figured out how to fix the issue with the 'required' keyword, I'll have to take another look tomorrow.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/django-simpleaudiofield)
+
 ### Day 12: February 2, 2017
 
 **Today's Progress**: Attempted to write unit tests today for the SimpleAudioField. 
