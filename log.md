@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 6, 2017
+
+**Today's Progress**: Fixed the 'value' parameter for the extension validator and added ugettext when ValidationError is raised.
+
+**Thoughts:** OK... now I think this will work for the next project...
+
+### Day 15: February 5, 2017
+
+**Today's Progress**: Found another bug, looks like I'm not doing something right when I try to validate the file extension is whitelisted.
+
+**Thoughts:** Looks like the unit tests did not cover everything, I'm going to do a little reading up on Django's validation process.
+
 ### Day 14: February 4, 2017
 
 **Today's Progress**: Fixed the unit tests, looks like the assertion was intended to be used with form fields not model fields. Added a custom form field the the SimpleAudioField.
