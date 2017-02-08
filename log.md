@@ -1,16 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 7, 2017
+
+**Today's Progress**: Started on Project-Jukebox, began implementing the model and admin classes. 
+
+**Thoughts:** I had started this project awhile ago but decided to start from scratch for this challenge.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/project-jukebox)
+
 ### Day 16: February 6, 2017
 
-**Today's Progress**: Fixed the 'value' parameter for the extension validator and added ugettext when ValidationError is raised.
+**Today's Progress**: Fixed the issue, looks like the bug was caused when validating the file extension in the formfield.
 
-**Thoughts:** OK... now I think this will work for the next project...
+**Thoughts:** Ok, now I think I have it working....
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/project-jukebox)
 
 ### Day 15: February 5, 2017
 
 **Today's Progress**: Found another bug, looks like I'm not doing something right when I try to validate the file extension is whitelisted.
 
 **Thoughts:** Looks like the unit tests did not cover everything, I'm going to do a little reading up on Django's validation process.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/django-simpleaudiofield)
 
 ### Day 14: February 4, 2017
 
