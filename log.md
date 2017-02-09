@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 8, 2017
+
+**Today's Progress**: Created the views and templates to browse tracks and albums. 
+
+**Thoughts:** This seemed pretty straight forward. It was pretty easy to create the templates and views, if I want to make the templates a little more interactive I might have to figure out how to use Javascript.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/project-jukebox)
+
 ### Day 17: February 7, 2017
 
 **Today's Progress**: Started on Project-Jukebox, began implementing the model and admin classes. 
