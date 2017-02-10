@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 9, 2017
+
+**Today's Progress**: Started a simple script to write filenames from a directory to an excel spreadsheet. 
+
+**Thoughts:** Got a little sidetracked today and tried writing a simple script to write some file info to an excel spreadsheet. Having a little difficutly between encoding and decoding UTF-8 strings. Need to figure out how to work with it using the openpyxl module.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/fileslist-to-xlsx)
+
 ### Day 18: February 8, 2017
 
 **Today's Progress**: Created the views and templates to browse tracks and albums. 
