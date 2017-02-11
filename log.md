@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 10, 2017
+
+**Today's Progress**: Fixed the issue with converting filenames to unicode that contained a right single quote character.
+
+**Thoughts:** Took awhile to research this issue, ended up using the 'mbcs' encoding for windows which handled the issue automatically.
+
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/files-to-xlsx)
+
 ### Day 19: February 9, 2017
 
 **Today's Progress**: Started a simple script to write filenames from a directory to an excel spreadsheet. 
 
 **Thoughts:** Got a little sidetracked today and tried writing a simple script to write some file info to an excel spreadsheet. Having a little difficutly between encoding and decoding UTF-8 strings. Need to figure out how to work with it using the openpyxl module.
 
-**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/fileslist-to-xlsx)
+**Link to work:** [django-simpleaudiofield](https://github.com/jcoady9/files-to-xlsx)
 
 ### Day 18: February 8, 2017
 
