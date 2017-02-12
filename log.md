@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 11, 2017
+
+**Today's Progress**: Started working on te Decoder Ring challenge. 
+
+**Thoughts:** Decided to try learning a little Rust and tried out my new skills on some old challenges from that programming competition I entered in college. Overall the language is a little cleaner than C/C++.
+
 ### Day 20: February 10, 2017
 
 **Today's Progress**: Fixed the issue with converting filenames to unicode that contained a right single quote character.
