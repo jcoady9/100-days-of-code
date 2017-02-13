@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 12, 2017
+
+**Today's Progress**: Tried to get a little further with the decoder ring in rust. 
+
+**Thoughts:** The learning curve for Rust seems to be a little steep compared to other languages like Python or Java. I keep having trouble casting variables to other data types.
+
 ### Day 21: February 11, 2017
 
 **Today's Progress**: Started working on te Decoder Ring challenge. 
