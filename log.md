@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 13, 2017
+
+**Today's Progress**: Finished implementing the decoder ring in rust.
+
+**Thoughts:** After spending three days on a Rust program, I've come to the conclusion that it is pretty serious about type safety, you just need to really know what's going on with your data types or you'll have an excruciatingly hard time figuring out how to get your code to compile.
+
 ### Day 22: February 12, 2017
 
 **Today's Progress**: Tried to get a little further with the decoder ring in rust. 
