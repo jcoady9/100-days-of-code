@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 14, 2017
+
+**Today's Progress**: Implemented a simple worksheet object to simplify working with excel spreadsheet data.
+
+**Thoughts:** This'll be a quick and easy project, it will simplify the work I do with spreadsheet where the number and position of columns often changes. 
+
 ### Day 23: February 13, 2017
 
 **Today's Progress**: Finished implementing the decoder ring in rust.
