@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 26 February 16, 2017
+
+**Today's Progress**: Started work on a python program for transfering data from an xlsx file to a sqlite database.
+
+**Thoughts:** Using openpyxl so it should be a pretty straightforward.
+
+### Day 25 February 15, 2017
+
+**Today's Progress**: Experimented with the Wagtail CMS framework.
+
+**Thoughts:** Tried out a CMS framework to see what it could be used for.
+
 ### Day 24: February 14, 2017
 
 **Today's Progress**: Implemented a simple worksheet object to simplify working with excel spreadsheet data.
