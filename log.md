@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 28 February 18, 2017
+
+**Today's Progress**: Finished up the code for creating the database (except for adding date datatypes) and added code for populating the new database with data from the spreadsheet.
+
+**Thoughts:** After doing a little code cleanup I should probably work on some functionality for inserting/updating already existing databases.
+
+### Day 27 February 17, 2017
+
+**Today's Progress**: Did a little code for creating the database.
+
+**Thoughts:** Nasty headache tonight so there won't be much work done tonight mostly added a little code for selecting a datatype for each column.
+
 ### Day 26 February 16, 2017
 
 **Today's Progress**: Started work on a python program for transfering data from an xlsx file to a sqlite database.
